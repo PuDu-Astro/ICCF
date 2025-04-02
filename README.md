@@ -6,7 +6,7 @@ Image from python code:
 Image from c code:
 <img src="https://github.com/PuDu-Astro/images_for_doc/blob/master/ICCF_c.png" width="720" height="438">
 
-Interpolated Cross-Correlation Function (ICCF) analysis for light curves, with Monte Carlo error estimation of error bars.
+Interpolated Cross-Correlation Function (ICCF) analysis for light curves, with Monte Carlo error estimation.
 
 **Author**: Pu Du  
 **Affiliation**: Institute of High Energy Physics (IHEP)  
