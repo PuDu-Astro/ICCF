@@ -1,0 +1,9 @@
+continuum            con.txt          # name of continuum light curve
+line                 line.txt         # name of emission-line light curve
+tbeg                 -10.0            # lower limit of time in CCF
+tend                 80.0             # upper limit of time in CCF
+nt                   901              # number of bin in CCF
+nbin                 91               # number of bin for showing the result of FR/RSS
+num_mc               1000             # number of Monte Carlo simulations of FR/RSS
+
+# please do not change the sequence of the parameters.
