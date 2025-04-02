@@ -85,3 +85,6 @@ The program generates:
 |cent_disk.txt  |CCCD from FR/RSS	          |
 |pypiccf_ccf_out.txt	  |ICCF (python version)	          |
 |pypiccf_mc_out.txt	    |CCCD and CCPD (python version)	          |
+
+## Acknowledgement
+I will appreciate if you can cite ICCF in your paper: e.g., \software{\citep{Du2025}} and \bibitem[Du(2025)]{Du2025} Du, P.\ 2025, ICCF: Interpolated Cross-Correlation Function, v1.0.1, Zenodo, doi:10.5281/zenodo.15124070
