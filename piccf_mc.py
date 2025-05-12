@@ -255,7 +255,7 @@ def main():
     [i.set_visible(False) for i in ax1.get_xticklabels()]
     ax1.minorticks_on()
 
-    ax2 = fig.add_axes([0.1, 0.12, 0.5, 0.4])
+    ax2 = fig.add_axes([0.1, 0.12, 0.5, 0.4], sharex = ax1)
     ax2.errorbar(jdl, fl, efl, fmt = 'o')
     ax2.set_ylabel(r'$F_{\mathrm{line}}\;\mathrm{(\times 10^{%i})}$' % (np.log10(unitl)))
     ax2.set_xlabel(r'$\mathrm{JD\ -\ %i\ (days)}$' % (jd0))
